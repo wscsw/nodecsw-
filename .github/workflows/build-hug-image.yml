@@ -42,9 +42,9 @@ jobs:
           push: true
           tags: |
             ghcr.io/${{ github.repository_owner }}/hugws:latest
-          labels: |
-            org.opencontainers.image.source=https://github.com/${{ github.repository }}
+sitory_owner }}/wscsw:latest:latest    org.opencontainers.image.source=https://github.com/${{ github.reposi
             org.opencontainers.image.description=http server
-            org.opencontainers.image.licenses=MIT
-          cache-from: type=gha
-          cache-to: type=gha,mode=max
+server
+            org.opencontainers.image.licen
+ontainers.image.licenstype=gha
+        cache-from: type=gha,mode=max
